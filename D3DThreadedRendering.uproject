@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{36A2979D-43C7-BF31-AFDC-0CAA2791A2CA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "D3DThreadedRendering",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"MacNoEditor",
+		"WindowsNoEditor"
+	]
+}
