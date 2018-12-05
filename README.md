@@ -7,7 +7,7 @@ This is a public demo I built at Intel Visual Computing Enabling Group. Original
 Up to 1015 meshes in a single scene
 
 ### Draw Call Number
-Up to more than 4k draw calls in a single scene
+More than 4k draw calls in a single scene
 
 ![avatar](./demo.png)
 
