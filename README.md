@@ -2,6 +2,8 @@
 
 This is a public demo I built at Intel Visual Computing Enabling Group. Original demo is included in DX11 SDK examples.
 
+![avatar](./teaser.png)
+
 ## Why This?
 ### Mesh Number
 Up to 1015 meshes in a single scene
